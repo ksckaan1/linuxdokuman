@@ -15,8 +15,10 @@
 * [Temel GNU/Linux Komutları](giris/temel-gnu-linux-komutlari.md)
 * [Türkçe GNU/Linux Toplulukları](giris/tuerkce-gnu-linux-topluluklari.md)
 * [Türkçe GNU/Linux Blogları](giris/tuerkce-gnu-linux-bloglari.md)
+* [Linux Sistem Yöneticisi Kimdir?](giris/linux-sistem-yoeneticisi-nedir.md)
 
-## Linux Sistem Yöneticisi
+## Bölüm 1
 
-* [Linux Sistem Yöneticisi Kimdir?](linux-sistem-yoeneticisi/linux-sistem-yoeneticisi-nedir.md)
+* [GNU GRUB \(Ön Yükleyici\)](boeluem-1/gnu-grub-oen-yuekleyici.md)
+* [GNU/Linux Kurulum Diskinin Hazırlanması](boeluem-1/gnu-linux-kurulum-diskinin-hazirlanmasi.md)
 
