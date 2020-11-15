@@ -16,5 +16,3 @@ Linux altyapı teknolojisini koruma ve geliştirme konusunda uzmanlaşan linux s
 * Atanan görevlerle ilgili teknik dokümantasyonları tamamlamak,
 * Dönüşümlü olarak acil durum müdahale \(on-call\) takımında yer almak.
 
-
-

@@ -2,6 +2,12 @@
 
 GNU/Linux hakkındaki bilgilendirici dökümanlar derlenmiştir. Ücretsiz bir şekilde faydalanabilirsiniz.
 
+GNU/Linux İşletim Sistemleri hakkında bilgisi olan arkadaşlarımızdan bir isteğim var. Dökümanı geliştirmek için bildiğiniz bir konuyu ekleyebilirseniz, döküman daha çok kişiye yardımcı olabilir. Bunun için sağ üstteki **Edit on Github** butonunu veya aşağıdaki bağlantıdan bu repoya ulaşabilirsiniz. Yardımcı olacaklara şimdiden teşekkür ederim.
+
+{% embed url="https://github.com/ksckaan" %}
+
+Bana aşağıdaki platformlardan ulaşabilirsiniz.
+
 | Platform | Id |
 | :--- | :--- |
 | ![](.gitbook/assets/twitter.png) Twitter | [@ksckaan1](https://twitter.com/ksckaan1) |

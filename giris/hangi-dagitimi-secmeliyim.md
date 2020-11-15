@@ -2,7 +2,7 @@
 
 Aslında bu çok tartışmalı olan bir konudur. Birçok kişi kendi kullandığı distro'nun en iyi olduğunu söyleyecektir, hatta avukatlığını bile yapacaktır. O yüzden bu sorunun cevabını hiç bekletmeden vermek gerekir ise en iyi distro diye birşey yoktur. Farklı kullanıcı kesimlerine elinden geldiğince iyi bir çözüm vermeye çalışan distro'lar vardır. Bu yüzden internette _"en iyi linux dağıtımı"_ yazarak aratmak size bir çözüm olmaz. Genellikle her kullanım amacı için farklı bir dağıtım önerilse de kullanıcı isteklerine göre de önerimlerde bulunulabilir.
 
-### Örnek bir distro seçme yöntemi:
+## Örnek bir distro seçme yöntemi:
 
 * GNU/Linux konusunda ne kadar deneyimlisiniz?
 * Modern mi yoksa standart bir masaüstü arayüzü mü tercih ediyorsunuz?

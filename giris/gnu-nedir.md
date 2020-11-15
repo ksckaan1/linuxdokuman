@@ -14,9 +14,7 @@ Resmi çekirdeği **GNU Hurd**'dür. Hurd çekirdeği tamanlanamadığından dol
 * GNU C Kütüphanesi \(glibc\)
 * Çekirdek Araçları \(coreutils\)
 
-Görsellik açısından **X.Org**'u; yazım açısından da **TeX** yazılımlarını kullanır. 
+Görsellik açısından **X.Org**'u; yazım açısından da **TeX** yazılımlarını kullanır.
 
 Linux çekirdeğini kullanan kullanıcılar sistemlerine genel olarak "Linux" demektedir ancak GNU Projesi "Linux" yerine "GNU/Linux" denmesini önerir. Çünkü Linux, bünyeside GNU araçlarını barındırmaktadır. Bu konudaki tartışma uzun süredir devam etmektedir.
-
-
 
