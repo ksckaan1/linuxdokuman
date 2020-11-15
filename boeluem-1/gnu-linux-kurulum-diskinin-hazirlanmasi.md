@@ -48,5 +48,5 @@ Bunun için topluluklardan veya YouTube videolarından faydalanabilirsiniz.
 
 ## ❗Önemli Bir Tavsiye
 
-Eğer bir doküman veya video yardımı ile kurulumu yapmaya çalışıyorsanız, önce dökümanı veya videoyu baştan sona incelemenizde yara vardır. İşlemlerinizi daha sonra yapmanız güvenli bir yol olacaktır.
+Eğer bir doküman veya video yardımı ile kurulumu yapmaya çalışıyorsanız, önce dökümanı veya videoyu baştan sona incelemenizde yarar vardır. İşlemlerinizi daha sonra yapmanız güvenli bir yol olacaktır.
 
