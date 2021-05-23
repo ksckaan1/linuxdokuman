@@ -21,4 +21,5 @@
 
 * [GNU GRUB \(Ön Yükleyici\)](boeluem-1/gnu-grub-oen-yuekleyici.md)
 * [GNU/Linux Kurulum Diskinin Hazırlanması](boeluem-1/gnu-linux-kurulum-diskinin-hazirlanmasi.md)
+* [Masaüstü Ortamları \(Desktop Environments\)](boeluem-1/masauestue-ortamlari-desktop-environments.md)
 
