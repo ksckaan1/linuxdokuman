@@ -1,5 +1,7 @@
 # GNU/Linux Kurulum Diskinin Hazırlanması
 
+## ❗Önemli Bir Tavsiye
+
 Öncelikle GNU/Linux kurulumunu nasıl yapacağımızı bilmemiz gerekir. Bunun için doğru yazıyı okuyorsunuz.
 
 ## ➡️ GNU/Linux'u Başka bir İşletim Sisteminin Yanına Kurmak İstiyorum.
@@ -24,7 +26,7 @@ Açılan ufak pencerede **Birimler** sekmesine geçelim. Hemen aşağıda **Böl
 
 ## ➡️ Diskime Sadece GNU/Linux İşletim Sistemini Kuracağım.
 
-Eğer bu seçeneği tercih ediyorsanız, işimi bir hayli kolay olacak. Bu seçenekte önerilen ayarlar **UEFI** ve **GPT** tipinde olacak.
+Eğer bu seçeneği tercih ediyorsanız, işimiz bir hayli kolay olacak. Bu seçenekte önerilen ayarlar **UEFI** ve **GPT** tipinde olacak.
 
 ## ✨ Kurulum Diskine Kurulum Medyasının Yazılması
 
@@ -45,8 +47,6 @@ Yapacağımız işlemler çok basit.
 İşlem tamamlandıktan sonra GNU/Linux işletim sitemini kurma bölümü sisizn seçtiğiniz sisteme göre değişiklik gösterecektir.
 
 Bunun için topluluklardan veya YouTube videolarından faydalanabilirsiniz.
-
-## ❗Önemli Bir Tavsiye
 
 Eğer bir doküman veya video yardımı ile kurulumu yapmaya çalışıyorsanız, önce dökümanı veya videoyu baştan sona incelemenizde yarar vardır. İşlemlerinizi daha sonra yapmanız güvenli bir yol olacaktır.
 
